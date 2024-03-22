@@ -1,1 +1,1 @@
-export PYTHONPATH=/home/$IPLANT_USER/superset-py/
+export PYTHONPATH=//home/jovyan/data-store/cyverse-sensorkit-helper/sensorfabric-py/
